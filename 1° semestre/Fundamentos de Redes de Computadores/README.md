@@ -24,3 +24,16 @@ Ao digitar o número do telefone do usuário B com o respectivo DDD, a central t
 Ao atender o telefone, o usuário B confirma a utilização desse circuito. A partir daí, a conversa (troca de informação entre os usuários A e B) pode ser efetuada.
 
 ![comutaca_de_circuitos_telefone](https://user-images.githubusercontent.com/61008693/172957013-a32e8295-7333-495e-bb70-b697fe3cce0f.png)
+
+## Comutação de pacotes:
+
+Nesse tipo de comutação, a informação é dividida em conjuntos de dados chamados pacotes, que também carregam a informação de identificação da origem e do destino dentro da rede.
+Assim, os pacotes são encaminhados individualmente e de forma independente, cada ponto intermediário analisa as informações do pacote e decide por onde encaminhá-lo dentro da rede, até que ele alcance o destino.
+
+#### ATENÇÃO:
+Na Comutação de pacotes, não existem as fases 1 e 3 descritas anteriormente, que compreendem o estabalecimento prévio de um circuito antes da transmissão dos dados e a desconexão ou o encerramento do circuito estabelecido ao final da comunicação.
+
+![comutacao_de_pacotes](https://user-images.githubusercontent.com/61008693/172957429-7a788bb6-05b4-47e9-9aa7-ecfe00bae219.png)
+
+#### ATENÇÃO: 
+Observe que cada pacote pode seguir um caminho diferente, de forma que a ordem de chegada ao destino não é preservada. Cabe assim ao nó destino "B" rearrumar os pacotes na sequência correta para recuperar completamente a informação original transmitida por "A".

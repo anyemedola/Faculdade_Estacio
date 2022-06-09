@@ -37,3 +37,11 @@ Na Comutação de pacotes, não existem as fases 1 e 3 descritas anteriormente, 
 
 #### ATENÇÃO: 
 Observe que cada pacote pode seguir um caminho diferente, de forma que a ordem de chegada ao destino não é preservada. Cabe assim ao nó destino "B" rearrumar os pacotes na sequência correta para recuperar completamente a informação original transmitida por "A".
+
+## IoT:
+
+* É ligada ao conceito _interconexão_ digital de objetos comuns do nosso dia a dia ligados à rede e internet, esses objetos contêm sensores de comunicação e são capazes de coletar, compartilhar e receber dados.
+* **Ex de equipamentos:** Geladeira, micro-ondas, porta de casa, coleira do pet, qualquer objeto que possa se conectar a internet com alguma finalidade.
+*	A tecnologia 5g daria um salto na internet das coisas por conta da taxa de transmissão que promete ser 100x mais que as atuais no mercado e um tempo de resposta menor (amplificação de conectividade de dispositivos da rede).
+*	**Pontos positivos:** ela vai permitir conectividade entre as coisas, capacidade de transmissão de dados entre as coisas, desenvolvimento de outros aplicativos. 
+*	**Pontos negativos:** maior de necessidade de desenvolver mecanismos de segurança.

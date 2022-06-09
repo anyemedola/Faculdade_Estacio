@@ -13,4 +13,4 @@ Na época, a grande inovação foi a mudança de paradigma para a comutação de
 
 Na comutação de circuitos, é necessário o estabelecimento prévio de um circuito físico entre a origem e o destino antes da transmissão da informação propriamente dita.
 
-![Ex: Comutação de circuitos](/assets/Fundamentos de Redes de Computadores/![ex_comutacao_de_circuitos](https://user-images.githubusercontent.com/61008693/172952171-fdcaa9a8-18f4-4700-b441-3d023c0d25f6.png))
+![Ex: Comutação de circuitos](/assets/Fundamentos de Redes de Computadores/(https://user-images.githubusercontent.com/61008693/172952171-fdcaa9a8-18f4-4700-b441-3d023c0d25f6.png)

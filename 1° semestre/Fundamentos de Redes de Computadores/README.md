@@ -15,7 +15,7 @@ Na comutação de circuitos, é necessário o estabelecimento prévio de um circ
 
 ![ex_comutacao_de_circuitos](https://user-images.githubusercontent.com/61008693/172952458-c3404f84-7d28-4729-9ef7-56b77bf04636.png)
 
-### EX:
+#### EX:
 
 O usuário A deseja estabelecer uma ligação telefônica com o usuário B, localizado em outra cidade.
 

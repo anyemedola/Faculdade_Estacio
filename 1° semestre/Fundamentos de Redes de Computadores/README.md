@@ -14,3 +14,13 @@ Na época, a grande inovação foi a mudança de paradigma para a comutação de
 Na comutação de circuitos, é necessário o estabelecimento prévio de um circuito físico entre a origem e o destino antes da transmissão da informação propriamente dita.
 
 ![ex_comutacao_de_circuitos](https://user-images.githubusercontent.com/61008693/172952458-c3404f84-7d28-4729-9ef7-56b77bf04636.png)
+
+### EX:
+
+O usuário A deseja estabelecer uma ligação telefônica com o usuário B, localizado em outra cidade.
+
+Ao digitar o número do telefone do usuário B com o respectivo DDD, a central telefônica local conectada ao aparelho do usuário A inicia um processo de sinalização pela rede telefônica até que um caminho físico (circuito) seja estabelecido da rede do terminal A ao terminal telefônico do usuário B.
+
+Ao atender o telefone, o usuário B confirma a utilização desse circuito. A partir daí, a conversa (troca de informação entre os usuários A e B) pode ser efetuada.
+
+![comutaca_de_circuitos_telefone](https://user-images.githubusercontent.com/61008693/172957013-a32e8295-7333-495e-bb70-b697fe3cce0f.png)

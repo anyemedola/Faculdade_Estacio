@@ -1,2 +1,7 @@
-# faculdade_Programacao_Estruturada_C
-Introdução à Programação Estruturada em C
+#Solução de problemas e pensamento computacional
+
+##Módulo 1
+
+###Introdução
+
+O _computador_ não tem **discernimento**

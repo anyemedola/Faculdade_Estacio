@@ -1,7 +1,7 @@
-#Solução de problemas e pensamento computacional
+# Solução de problemas e pensamento computacional
 
-##Módulo 1
+## Módulo 1
 
-###Introdução
+### Introdução
 
 O _computador_ não tem **discernimento**

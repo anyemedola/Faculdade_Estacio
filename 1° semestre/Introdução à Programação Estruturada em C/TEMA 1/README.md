@@ -17,3 +17,4 @@ Os Nove Elementos do pensamento computacional de acordo com Grover e Pea (2013):
 
 Os quatro pilares para a resolução de problemas do Pensamento Computacional de Brackmann (2017):
 
+![quatro_pilares](https://user-images.githubusercontent.com/61008693/173147907-e2f0a36c-a1f2-42a0-b6a7-ffdaa8b0e52a.png)
